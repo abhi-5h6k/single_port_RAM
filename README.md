@@ -2,6 +2,7 @@ This repository contains the Verilog code for a simple 16x8 RAM module. This RAM
 
 📁 File Overview
 ram.v: The Verilog module implementing the RAM.
+
 🔍 Module Description
 The ram module is designed to store and retrieve 8-bit data values at specific addresses. It has the following ports:
 
